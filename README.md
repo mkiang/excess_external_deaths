@@ -53,12 +53,12 @@ bootstrapping procedure we used.
     (![Github](http://i.imgur.com/9I6NRUm.png):
     [2018Ruijia](https://github.com/2018Ruijia) \|
     ![Twitter](http://i.imgur.com/wWzX9uB.png):
-    [@ch272n](https://twitter.com/ch272n))
+    [@RuijiaChen19](https://twitter.com/@RuijiaChen19))
 -   [Yea-Hung Chen](https://yea-hung.rbind.io)
     (![Github](http://i.imgur.com/9I6NRUm.png):
     [yea-hung](https://github.com/yea-hung) \|
     ![Twitter](http://i.imgur.com/wWzX9uB.png):
-    [@RuijiaChen19](https://twitter.com/@RuijiaChen19))
+    [@ch272n](https://twitter.com/ch272n))
 -   [Maria Glymour](https://profiles.ucsf.edu/maria.glymour)
     (![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@MariaGlymour](https://twitter.com/MariaGlymour))
@@ -70,3 +70,5 @@ bootstrapping procedure we used.
 -   [Andrew Stokes](https://www.bu.edu/sph/profile/andrew-stokes/)
     (![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@astokespop](https://twitter.com/astokespop))
+
+RC, Y-H C, and MVK equally contributed code used in this analysis.
