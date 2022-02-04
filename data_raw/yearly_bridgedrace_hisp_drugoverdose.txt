@@ -1,0 +1,364 @@
+"Notes"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	8	564085	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	12	640108	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	3	736712	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	13	819168	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2003"	"2003"	13	907535	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2004"	"2004"	16	1000953	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2005"	"2005"	15	1101386	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2006"	"2006"	22	1209963	1.818237417
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	24	1327365	1.808093478
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	31	1455459	2.129912282
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	35	1589064	2.202554460
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	17	1693971	Unreliable
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	32	1748621	1.830013479
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	38	1777935	2.137310982
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	44	1814934	2.424330582
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	49	1851684	2.646239855
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	46	1888147	2.436250991
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	50	1919088	2.605404234
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	60	1959872	3.061424420
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	69	1993449	3.461337611
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	95	2019760	4.703529132
+	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	122	2133093	5.719394325
+"Total"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"			814	32152352	2.531696592
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"1999"	"1999"	5	389153	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2000"	"2000"	6	402132	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2001"	"2001"	4	446003	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2002"	"2002"	9	481379	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2003"	"2003"	3	518772	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2004"	"2004"	15	560484	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2005"	"2005"	12	606122	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2006"	"2006"	14	653855	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	15	704672	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	12	758518	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	24	815036	2.944655205
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	12	859454	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	29	891649	3.252400889
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	8	912363	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	21	936266	2.242952323
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	34	961306	3.536855070
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	35	986160	3.549119818
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	37	1007794	3.671385224
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	32	1032554	3.099111523
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	53	1054319	5.026941561
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	71	1054158	6.735233238
+	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	66	1128901	5.846393971
+"Total"	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"			517	17161050	3.012636173
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"1999"	"1999"	20	1450885	1.378469003
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2000"	"2000"	19	1502500	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2001"	"2001"	21	1611386	1.303225919
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2002"	"2002"	24	1698520	1.412994843
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2003"	"2003"	18	1787536	Unreliable
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2004"	"2004"	27	1889807	1.428717324
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2005"	"2005"	38	2009995	1.890551966
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2006"	"2006"	27	2137612	1.263091712
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2007"	"2007"	37	2266409	1.632538522
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2008"	"2008"	35	2397226	1.460020874
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2009"	"2009"	32	2527635	1.266005574
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2010"	"2010"	30	2628201	1.141465208
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2011"	"2011"	39	2733919	1.426523610
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2012"	"2012"	48	2811704	1.707149828
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2013"	"2013"	47	2894185	1.623945947
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2014"	"2014"	69	2992875	2.305475504
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2015"	"2015"	73	3085713	2.365741727
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2016"	"2016"	129	3165351	4.075377423
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2017"	"2017"	137	3259446	4.203168268
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2018"	"2018"	181	3328020	5.438669239
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2019"	"2019"	271	3363590	8.056867811
+	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	"2020 "	"2020"	378	3560612	10.616152504
+"Total"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"			1700	55103127	3.085124370
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"1999"	"1999"	1636	31533672	5.188104957
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2000"	"2000"	1406	32761078	4.291678070
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2001"	"2001"	1455	34349995	4.235808477
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2002"	"2002"	1785	35618553	5.011433227
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2003"	"2003"	1975	36835586	5.361663040
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2004"	"2004"	1854	38050131	4.872519361
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2005"	"2005"	2155	39306111	5.482608035
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2006"	"2006"	2456	40604875	6.048534813
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2007"	"2007"	2411	41898407	5.754395388
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2008"	"2008"	2458	43182582	5.692109842
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2009"	"2009"	2510	44395754	5.653693819
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2010"	"2010"	2524	45295968	5.572239896
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2011"	"2011"	2841	46671088	6.087280416
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2012"	"2012"	2961	47525706	6.230312497
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2013"	"2013"	3233	48425985	6.676167764
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2014"	"2014"	3352	49581674	6.760562380
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2015"	"2015"	3963	50632773	7.826946393
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2016"	"2016"	5014	51378054	9.759030578
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2017"	"2017"	5759	52694857	10.928960297
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2018"	"2018"	6029	53495958	11.270010344
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2019"	"2019"	7036	54134729	12.997201852
+	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	"2020 "	"2020"	10040	54490273	18.425306843
+"Total"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"			74853	972863809	7.694088248
+"Total"	"Hispanic or Latino"	"2135-2"					77884	1077280338	7.229687320
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	131	2268676	5.774293024
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	126	2344042	5.375330306
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	157	2360621	6.650792313
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	200	2383303	8.391715195
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2003"	"2003"	249	2404476	10.355686644
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2004"	"2004"	294	2428499	12.106243404
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2005"	"2005"	310	2452970	12.637741187
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2006"	"2006"	337	2477720	13.601214019
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	345	2502533	13.786031992
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	393	2528470	15.542996357
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	433	2552151	16.966080769
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	420	2569567	16.345166326
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	453	2598792	17.431175716
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	482	2620501	18.393429348
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	477	2643000	18.047673099
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	534	2667297	20.020267709
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	553	2689706	20.559867882
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	638	2711067	23.533169781
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	672	2729175	24.622825579
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	708	2745839	25.784468791
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	799	2765443	28.892296822
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	1121	2766392	40.522095206
+"Total"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"			9832	56210240	17.491474863
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"1999"	"1999"	129	10957343	1.177292707
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2000"	"2000"	125	11355553	1.100783027
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2001"	"2001"	143	11983178	1.193339530
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2002"	"2002"	173	12472384	1.387064414
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2003"	"2003"	191	12942337	1.475776747
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2004"	"2004"	200	13406530	1.491810334
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2005"	"2005"	234	13888295	1.684872045
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2006"	"2006"	267	14375996	1.857262620
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	277	14854701	1.864729556
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	268	15336181	1.747501546
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	309	15793995	1.956439774
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	322	16133872	1.995801132
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	402	16579709	2.424650517
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	403	17175596	2.346352348
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	424	17693870	2.396310135
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	465	18436908	2.522114880
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	548	19116557	2.866624989
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	644	19479730	3.306000648
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	756	20178119	3.746632677
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	799	20546745	3.888693805
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	870	20760566	4.190637192
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	1218	21284836	5.722383767
+"Total"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"			9167	354753001	2.584051431
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"1999"	"1999"	2429	34722236	6.995517224
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2000"	"2000"	2391	35091809	6.813555836
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2001"	"2001"	2519	35638389	7.068220732
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2002"	"2002"	2784	36049904	7.722628055
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2003"	"2003"	2822	36422205	7.748020747
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2004"	"2004"	2895	36848991	7.856388795
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2005"	"2005"	3322	37270736	8.913159107
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2006"	"2006"	3912	37719495	10.371294738
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2007"	"2007"	3574	38184699	9.359769996
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2008"	"2008"	3147	38651733	8.141937646
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2009"	"2009"	3160	39104815	8.080846310
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2010"	"2010"	3122	39437133	7.916396965
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2011"	"2011"	3385	39944896	8.474174022
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2012"	"2012"	3488	40391388	8.635504182
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2013"	"2013"	3928	40802086	9.626958779
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2014"	"2014"	4323	41316519	10.463127351
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2015"	"2015"	5070	41777483	12.135723926
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2016"	"2016"	7220	42141669	17.132686415
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2017"	"2017"	8832	42624362	20.720544744
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2018"	"2018"	9188	42934826	21.399877107
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2019"	"2019"	10698	43235803	24.743382238
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	"2020 "	"2020"	15549	43620633	35.645975151
+"Total"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"			107758	863931810	12.472975153
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"1999"	"1999"	12328	197154118	6.252976162
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2000"	"2000"	13171	197324684	6.674785806
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2001"	"2001"	14949	197842671	7.556003932
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2002"	"2002"	18406	198101982	9.291174078
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2003"	"2003"	20375	198289486	10.275380914
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2004"	"2004"	22024	198619903	11.088516139
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2005"	"2005"	23604	198880984	11.868404674
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2006"	"2006"	27274	199200396	13.691739850
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2007"	"2007"	29217	199492421	14.645669171
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2008"	"2008"	29966	199783797	14.999214376
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2009"	"2009"	30303	199993079	15.152024336
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2010"	"2010"	31711	200127372	15.845408693
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2011"	"2011"	33961	200423243	16.944641496
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2012"	"2012"	33823	200698847	16.852613010
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2013"	"2013"	35581	200918513	17.709169488
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2014"	"2014"	37945	201048793	18.873527880
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2015"	"2015"	41720	201242281	20.731229935
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2016"	"2016"	49457	201324760	24.565781179
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2017"	"2017"	53516	201240793	26.593017848
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2018"	"2018"	49922	201068278	24.828381929
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2019"	"2019"	50347	200905474	25.060043909
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	"2020 "	"2020"	62786	200499383	31.314809582
+"Total"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"			722386	4394181258	16.439604049
+"Total"	"Not Hispanic or Latino"	"2186-2"					849143	5669076309	14.978507145
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	0	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	3	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	0	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2003"	"2003"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2004"	"2004"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2005"	"2005"	2	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2006"	"2006"	5	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	0	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	4	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	2	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	6	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	2	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	4	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	6	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	6	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	3	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	3	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	7	Not Applicable	Not Applicable
+"Total"	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"			59	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"1999"	"1999"	5	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2000"	"2000"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2001"	"2001"	2	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2002"	"2002"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2003"	"2003"	2	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2004"	"2004"	3	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2005"	"2005"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2006"	"2006"	2	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	6	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	1	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	4	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	5	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	5	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	2	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	5	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	6	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	9	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	9	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	10	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	12	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	16	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	40	Not Applicable	Not Applicable
+"Total"	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"			147	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"1999"	"1999"	39	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2000"	"2000"	30	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2001"	"2001"	37	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2002"	"2002"	24	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2003"	"2003"	32	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2004"	"2004"	20	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2005"	"2005"	30	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2006"	"2006"	26	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2007"	"2007"	25	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2008"	"2008"	29	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2009"	"2009"	35	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2010"	"2010"	24	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2011"	"2011"	36	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2012"	"2012"	47	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2013"	"2013"	41	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2014"	"2014"	46	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2015"	"2015"	69	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2016"	"2016"	96	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2017"	"2017"	93	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2018"	"2018"	74	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2019"	"2019"	103	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Black or African American"	"2054-5"	"2020 "	"2020"	83	Not Applicable	Not Applicable
+"Total"	"Not Stated"	"NS"	"Black or African American"	"2054-5"			1039	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"1999"	"1999"	119	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2000"	"2000"	125	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2001"	"2001"	104	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2002"	"2002"	98	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2003"	"2003"	104	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2004"	"2004"	75	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2005"	"2005"	90	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2006"	"2006"	83	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2007"	"2007"	79	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2008"	"2008"	106	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2009"	"2009"	157	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2010"	"2010"	141	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2011"	"2011"	156	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2012"	"2012"	196	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2013"	"2013"	180	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2014"	"2014"	230	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2015"	"2015"	314	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2016"	"2016"	332	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2017"	"2017"	364	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2018"	"2018"	329	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2019"	"2019"	321	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"White"	"2106-3"	"2020 "	"2020"	389	Not Applicable	Not Applicable
+"Total"	"Not Stated"	"NS"	"White"	"2106-3"			4092	Not Applicable	Not Applicable
+"Total"	"Not Stated"	"NS"					5337	Not Applicable	Not Applicable
+"Total"							932364	6746356647	13.820259568
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: yearly_bridgedrace_hisp_drugoverdose"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Group By: Hispanic Origin; Race; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 5, 2022 12:08:51 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 5, 2022 12:08:51 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
