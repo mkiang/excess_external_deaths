@@ -68,7 +68,5 @@ bootstrapping procedure we used.
     ![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@mathewkiang](https://twitter.com/mathewkiang))
 -   [Andrew Stokes](https://www.bu.edu/sph/profile/andrew-stokes/)
-    (![Github](http://i.imgur.com/9I6NRUm.png):
-    [mkiang](https://github.com/mkiang) \|
-    ![Twitter](http://i.imgur.com/wWzX9uB.png):
+    (![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@astokespop](https://twitter.com/astokespop))
