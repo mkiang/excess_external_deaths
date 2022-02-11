@@ -71,4 +71,4 @@ bootstrapping procedure we used.
     (![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@astokespop](https://twitter.com/astokespop))
 
-RC, Y-H C, and MVK equally contributed code used in this analysis.
+RC, Y-HC, and MVK equally contributed code used in this analysis.
