@@ -7,14 +7,11 @@
 
 This is reproducible code for our *JAMA Internal Medicine* research
 letter, “[Racial and Ethnic Disparities in Excess Mortality from
-External Causes in the United States, March to December 2020](TODO)”,
+External Causes in the United States, March to December 2020](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2791682)”,
 which uses the data from [CDC WONDER](https://wonder.cdc.gov) estimate
 excess deaths from external causes in the US. The full citation is:
 
-> Chen R, Aschmann HE, Chen Y-H, Glymour MM, Bibbins-Domingo K, Stokes
-> AC, & Kiang MV, Racial and Ethnic Disparities in Excess Mortality from
-> External Causes in the United States, March to December 2020. JAMA
-> Internal Medicine. (Forthcoming). doi: TODO
+> Chen R, Aschmann HE, Chen Y, et al. Racial and Ethnic Disparities in Estimated Excess Mortality From External Causes in the US, March to December 2020. *JAMA Internal Medicine*. Published online May 09, 2022. doi:[10.1001/jamainternmed.2022.1461](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2791682)
 
 ## Issues
 
